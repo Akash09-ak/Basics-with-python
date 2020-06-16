@@ -24,9 +24,9 @@ print(s1)
 print(s2)
 print(t)
 print("lets change it")
-s2+=[2]         # as we append [2] to s2 then t will also be changed 
+s2+=[2]         # as we append [2] to s2 then t also get changed 
 print(s2)
-print(t)        # t wont get affected by cahnging in s1
+print(t)        # t wont get affected by changing in s1
 print(s1)
 '''
 
