@@ -10,6 +10,7 @@ print(len(t)+sum(st))            # output is 22 sum is function of list where it
 #print(type(st),type(t),type(s))
 
 
+'''Q.3'''
 t=[0]
 s1=s2=t      # here s1 and s2 sharing same name for t
 s1=s1+[1]
